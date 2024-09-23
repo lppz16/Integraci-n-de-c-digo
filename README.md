@@ -21,4 +21,4 @@ Asegúrate de tener *Python* instalado (preferiblemente la versión 3.8 o superi
 
 # Foto del código:
 
-![Python](https://github.com/FeibertGuzman/Python-EST_DAT/blob/main/Captura_pantalla%20.png)
+![Python](Material Digital/Captura de pantalla 2024-09-23 145340.png)
