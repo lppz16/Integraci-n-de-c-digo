@@ -22,3 +22,8 @@ Asegúrate de tener *Python* instalado (preferiblemente la versión 3.8 o superi
 # Foto del código:
 
 ![Python](Material Digital/Captura de pantalla 2024-09-23 145340.png)
+
+
+# Foto del 
+
+! [Python] https://github.com/lppz16/Integraci-n-de-c-digo/blob/be9ba4b0cb40a9703935b90c2268a70ba3d455e7/Material%20Digital/Captura%20de%20pantalla%202024-09-23%20145653.png
