@@ -8,7 +8,7 @@ Este software fue creado a través de Python en Visual Studio Code. Lo que hace 
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/FeibertGuzman/Python-EST_DAT.git
+   git clone (https://github.com/lppz16/Integraci-n-de-c-digo.git)
 
 2. Navega al directorio del proyecto:
 
