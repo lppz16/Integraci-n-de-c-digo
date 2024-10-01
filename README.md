@@ -27,6 +27,9 @@ Asegúrate de tener *Python* instalado (preferiblemente la versión 3.8 o superi
 # Captura de la ejecución del código:
 ![Python](https://github.com/lppz16/Integraci-n-de-c-digo/blob/main/Material%20Digital/Captura%20de%20pantalla%202024-09-23%20145653.png)
 
+# Video:
+https://github.com/lppz16/Integraci-n-de-c-digo/blob/a64205c1a4259f5a1503e91216420823c045c363/Material%20Digital/Video.mp4
+
 # Requisitos
 
 1. Python 3.8+
