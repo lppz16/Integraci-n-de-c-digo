@@ -1,5 +1,9 @@
 # Integración de Código
 
+## índice
+
+1. [Descripción](#descripción)
+
 ## Descripción 
 Este software fue creado a través de Python en Visual Studio Code. Su funcionalidad es que nos muestra una lista de elementos, esta lista tiene adentro un bucle que ayuda a la ejecución de si misma. Por otra parte, tenemos otro algoritmo que imprime la lista de elementos que cada usuario elija. 
 
