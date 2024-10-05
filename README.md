@@ -6,7 +6,21 @@
 
 **2.** [¿Cómo puede ser clonado?](#cómo-puede-ser-clonado)
 
-**3.** [Descripción](#descripción)
+**3.** [Instalación](#instalación)
+
+**4.** [Herramientas utilizas](#herramientas-utilizadas)
+
+**5.** [Uso](#uso)
+
+**6.** [Estructura del código](#estructura-del-codigo)
+
+**7.** [Captura del código](#captura-del-codigo)
+
+**8.** [Captura de la ejecución del códgio](#captura-de-la-ejecución-del-código)
+
+**9.** [Video](#video)
+
+**10.** [Autor](#autor)
 
 ## Descripción 
 Este software fue creado a través de Python en Visual Studio Code. Su funcionalidad es que nos muestra una lista de elementos, esta lista tiene adentro un bucle que ayuda a la ejecución de si misma. Por otra parte, tenemos otro algoritmo que imprime la lista de elementos que cada usuario elija. 
